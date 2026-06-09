@@ -1,5 +1,4 @@
 # Highly-Available-3-Tier-Web-Application-on-AWS
-
 ☁️ AWS
 ⚖️ ALB
 📈 Auto Scaling
