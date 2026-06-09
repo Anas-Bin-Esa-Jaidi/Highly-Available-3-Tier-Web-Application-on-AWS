@@ -1,4 +1,35 @@
 # Highly-Available-3-Tier-Web-Application-on-AWS
+aws
+amazon-web-services
+cloud-computing
+devops
+aws-vpc
+ec2
+amazon-ec2
+application-load-balancer
+alb
+auto-scaling
+auto-scaling-group
+amazon-rds
+mysql
+route53
+cloudwatch
+amazon-sns
+high-availability
+three-tier-architecture
+infrastructure
+networking
+linux
+apache
+php
+phpmyadmin
+aws-project
+cloud-architecture
+system-design
+iac
+monitoring
+scalability
+load-balancing
 
 Project Overview
 
