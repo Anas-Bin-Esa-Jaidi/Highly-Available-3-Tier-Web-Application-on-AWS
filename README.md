@@ -11,7 +11,10 @@ This project demonstrates the deployment of a highly available, scalable, and se
 
 The infrastructure is designed using AWS best practices and includes networking, compute, load balancing, database services, monitoring, notifications, and automatic scaling capabilities.
 
-Architecture Components
+ 🏗️ Architecture 
+
+<img width="1536" height="1024" alt="Architecture" src="https://github.com/user-attachments/assets/1811acd8-dc6c-4a4d-a285-6c86ee1696a9" />
+
 
 **Networking**
 
