@@ -56,21 +56,37 @@ Architecture Components
 **Architecture Diagram**
 
  Users
+ 
    │
+   
    ▼
+
 Route 53
+
    │
+   
    ▼
+
 Application Load Balancer
+
    │
+   
    ▼
+
 Auto Scaling Group
+
  ┌───────────────┐
+ 
  │ EC2 Instance 1│
+ 
  │ EC2 Instance 2│
+ 
  └───────────────┘
+ 
    │
+   
    ▼
+
 Amazon RDS MySQL
 
 **Features**
