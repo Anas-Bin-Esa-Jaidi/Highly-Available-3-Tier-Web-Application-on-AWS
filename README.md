@@ -11,9 +11,13 @@ Architecture Components
 **Networking**
 
  Amazon VPC
+
  Public and Private Subnets across multiple Availability Zones
+
  Internet Gateway
+
  NAT Gateway
+
  Route Tables
 
 **Compute**
