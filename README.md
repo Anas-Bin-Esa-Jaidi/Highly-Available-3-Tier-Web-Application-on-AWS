@@ -1,12 +1,24 @@
-# Highly-Available-3-Tier-Web-Application-on-AWS
-☁️ AWS
-⚖️ ALB
-📈 Auto Scaling
-🖥️ EC2
-🗄️ RDS
-📊 CloudWatch
-🔔 SNS
-🌍 Route 53
+# ☁️ Highly Available 3-Tier Web Application on AWS
+
+## 📖 Project Overview
+
+## 🏗️ Architecture Components
+
+## 🚀 Features
+
+## 🛠️ AWS Services Used
+
+## 🌐 Infrastructure Setup
+
+## 📈 Auto Scaling Configuration
+
+## 📊 CloudWatch Monitoring
+
+## 🔔 SNS Notifications
+
+## 🔒 Security Groups
+
+## 🎯 Project Outcomes
 
 Project Overview
 
