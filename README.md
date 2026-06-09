@@ -58,6 +58,7 @@ Architecture Components
    Users
  
    │
+   
    ▼
 
    Route 53
@@ -88,6 +89,7 @@ Architecture Components
    ▼
 
    Amazon RDS MySQL
+
 
 **Features**
 
