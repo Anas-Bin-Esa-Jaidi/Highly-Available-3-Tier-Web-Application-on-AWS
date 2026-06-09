@@ -57,23 +57,23 @@ Architecture Components
 
    Users
  
-     │
+   │
+   ▼
+
+   Route 53
+
+   │
    
-     ▼
+   ▼
 
-  Route 53
+   Application Load Balancer
 
-     │
+   │
    
-     ▼
+   ▼
 
-  Application Load Balancer
-
-     │
    
-     ▼
-
-  Auto Scaling Group
+   Auto Scaling Group
 
    ┌───────────────┐
  
@@ -83,11 +83,11 @@ Architecture Components
  
    └───────────────┘
  
-     │
+   │
    
-     ▼
+   ▼
 
-  Amazon RDS MySQL
+   Amazon RDS MySQL
 
 **Features**
 
