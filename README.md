@@ -1,4 +1,9 @@
 # ☁️ Highly Available 3-Tier Web Application on AWS
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![EC2](https://img.shields.io/badge/EC2-Compute-blue)
+![RDS](https://img.shields.io/badge/RDS-Database-green)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-Monitoring-yellow)
+![SNS](https://img.shields.io/badge/SNS-Notifications-red)
 
 ## 📖 Project Overview
 
@@ -89,6 +94,29 @@ Architecture Components
    ▼
 
    Amazon RDS MySQL
+
+   ##  📸 Project Screenshots
+
+ VPC
+ 
+ <img width="1009" height="306" alt="image" src="https://github.com/user-attachments/assets/c72206be-2698-4c22-853f-e2f1ca9b789c" />
+   
+
+Auto Scaling Group
+
+<img width="1920" height="1080" alt="Screenshot (70)" src="https://github.com/user-attachments/assets/12c4d1a7-accd-4047-9300-df9d2b7126e5" />
+
+Instances
+
+<img width="1020" height="192" alt="image" src="https://github.com/user-attachments/assets/af266626-17b5-448d-a8ce-cdebcf0c4411" />
+
+CloudWatch Alarm
+
+<img width="1920" height="1080" alt="Screenshot (72)" src="https://github.com/user-attachments/assets/2c8be22d-f75a-4c8d-a261-f275a17701e1" />
+
+SNS Alert
+
+<img width="1920" height="1080" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/71860850-9cd9-4197-8534-ab4c72276d22" />
 
 
 ## 🚀 Features
@@ -284,6 +312,30 @@ Instance Health	Failed Status Checks
 **Database Security Group**
 
 - MySQL (3306) from Application Servers
+
+## 💡 Skills Demonstrated
+
+- AWS VPC
+- EC2
+- Application Load Balancer
+- Auto Scaling Group
+- Amazon RDS
+- Route 53
+- CloudWatch
+- SNS
+- Linux Administration
+- Apache Web Server
+- Networking
+- Security Groups
+- High Availability Architecture
+
+## 🎯 Key Achievements
+
+- Designed a highly available 3-tier AWS architecture.
+- Implemented Auto Scaling for dynamic workload management.
+- Configured CloudWatch monitoring and SNS alerting.
+- Secured infrastructure using VPC, private subnets, and Security Groups.
+- Deployed application across multiple Availability Zones for fault tolerance.
 
 ## 🎯 Project Outcomes
 
